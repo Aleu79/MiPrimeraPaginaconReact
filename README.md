@@ -19,6 +19,8 @@ Tiene un fecha de finalizacion que es para el 2024-06-01, que es donde yo maneja
 
 
 # Les dejo la licencia de uso
+
+```
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 1, may 2024
  
@@ -32,3 +34,4 @@ DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
  
   0. You just DO WHAT THE FUCK YOU WANT TO.
+```
