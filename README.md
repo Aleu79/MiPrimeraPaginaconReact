@@ -19,11 +19,13 @@ Tiene un fecha de finalizacion que es para el 2024-06-01, que es donde yo maneja
 
 
 # Les dejo la licencia de uso
+
+```
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 1, may 2024
  
  Copyright (C) 2024 Damian Aguero
- Monte Grande, 1812 Buenos Aires, Argentina
+ Monte Grande, 1842 Buenos Aires, Argentina
  Everyone is permitted to copy and distribute verbatim or modified
  copies of this license document, and changing it is allowed as long
  as the name is changed.
@@ -32,3 +34,4 @@ DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
  
   0. You just DO WHAT THE FUCK YOU WANT TO.
+```
